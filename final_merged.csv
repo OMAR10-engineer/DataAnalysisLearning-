@@ -1,0 +1,7 @@
+ID,VisitDate,BP,Cholesterol,DrugName,Dose,Name,Gender,Age,Smoker
+1,2024-07-01,130,220,Atenolol,50mg,Ali,Male,45,Y
+2,2024-07-01,145,200,Statin,20mg,Sara,Female,52,N
+3,2024-07-02,125,180,None,0mg,Omar,Male,35,Y
+4,2024-07-02,135,210,Atenolol,25mg,Hany,Male,40,N
+5,2024-07-03,118,170,None,0mg,Nour,Female,29,N
+6,2024-07-03,150,230,Statin,40mg,Dalia,Female,55,Y
