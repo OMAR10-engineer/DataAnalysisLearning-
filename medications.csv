@@ -1,0 +1,7 @@
+ID,VisitDate,DrugName,Dose
+1,2024-07-01,Atenolol,50mg
+2,2024-07-01,Statin,20mg
+3,2024-07-02,None,0mg
+4,2024-07-02,Atenolol,25mg
+5,2024-07-03,None,0mg
+6,2024-07-03,Statin,40mg
